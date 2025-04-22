@@ -1,0 +1,292 @@
+[
+    {
+        "audio_file": "greeting_1.m4a",
+        "filipino": "Ano ang pangalan mo?",
+        "casiguran_agta": "anya i ngahen moa"
+    },
+    {
+        "audio_file": "greeting_2.m4a",
+        "filipino": "Paalam.",
+        "casiguran_agta": "naydén kako dén"
+    },
+    {
+        "audio_file": "greeting_3.m4a",
+        "filipino": "Maraming salamat.",
+        "casiguran_agta": "me ado a salamat"
+    },
+    {
+        "audio_file": "greeting_4.m4a",
+        "filipino": "Patawarin mo ako.",
+        "casiguran_agta": "Patawadén nék mo"
+    },
+    {
+        "audio_file": "greeting_5.m4a",
+        "filipino": "Opo.",
+        "casiguran_agta": "on"
+    },
+    {
+        "audio_file": "greeting_6.m4a",
+        "filipino": "Hindi po.",
+        "casiguran_agta": "ewan be"
+    },
+    {
+        "audio_file": "greeting_7.m4a",
+        "filipino": "Ako si .",
+        "casiguran_agta": "saken ti"
+    },
+    {
+        "audio_file": "greeting_8.m4a",
+        "filipino": "Buti na lang nakita kita",
+        "casiguran_agta": "meta"
+    },
+    {
+        "audio_file": "greeting_9.m4a",
+        "filipino": "Kamusta ka na?",
+        "casiguran_agta": "kumusta kam dén"
+    },
+    {
+        "audio_file": "greeting_10.m4a",
+        "filipino": "Mabuti naman.",
+        "casiguran_agta": "ma ige be"
+    },
+    {
+        "audio_file": "greeting_11.m4a",
+        "filipino": "Masaya akong makilala ka.",
+        "casiguran_agta": "mesahat ék a matenggi taka"
+    },
+    {
+        "audio_file": "greeting_12.m4a",
+        "filipino": "Magandang hapon",
+        "casiguran_agta": "memahal a apon"
+    },
+    {
+        "audio_file": "greeting_13.m4a",
+        "filipino": "Magandang gabi",
+        "casiguran_agta": "memahal a kélép"
+    },
+    {
+        "audio_file": "greeting_14.m4a",
+        "filipino": "Magandang umaga",
+        "casiguran_agta": "memahal a gagabi"
+    },
+    {
+        "audio_file": "greeting_15.m4a",
+        "filipino": "Kayo po? / Ikaw?",
+        "casiguran_agta": "sikam"
+    },
+    {
+        "audio_file": "daily_1.m4a",
+        "filipino": "Makikiraan po.",
+        "casiguran_agta": "mékidiman kame"
+    },
+    {
+        "audio_file": "daily_2.m4a",
+        "filipino": "Aalis na po ako.",
+        "casiguran_agta": "még dema kamedén"
+    },
+    {
+        "audio_file": "daily_3.m4a",
+        "filipino": "Maaari mo ba akong tulungan?",
+        "casiguran_agta": "pwede ék moy tulungan"
+    },
+    {
+        "audio_file": "daily_4.m4a",
+        "filipino": "Ano po ang magagawa ko para sa inyo?",
+        "casiguran_agta": "anya i magimet koa para dekam"
+    },
+    {
+        "audio_file": "daily_5.m4a",
+        "filipino": "Naiintindihan ko.",
+        "casiguran_agta": "meentendian ko"
+    },
+    {
+        "audio_file": "question_1.m4a",
+        "filipino": "Ano?",
+        "casiguran_agta": "anya"
+    },
+    {
+        "audio_file": "question_2.m4a",
+        "filipino": "Kailan?",
+        "casiguran_agta": "ni kesya"
+    },
+    {
+        "audio_file": "question_3.m4a",
+        "filipino": "Saan?",
+        "casiguran_agta": "tahe"
+    },
+    {
+        "audio_file": "question_4.m4a",
+        "filipino": "Alin?",
+        "casiguran_agta": "nahe"
+    },
+    {
+        "audio_file": "question_5.m4a",
+        "filipino": "Sino?",
+        "casiguran_agta": "te esya"
+    },
+    {
+        "audio_file": "question_6.m4a",
+        "filipino": "Bakit?",
+        "casiguran_agta": "ata ay"
+    },
+    {
+        "audio_file": "question_7.m4a",
+        "filipino": "Magkano?",
+        "casiguran_agta": "sanganya?"
+    },
+    {
+        "audio_file": "color_1.m4a",
+        "filipino": "Asul",
+        "casiguran_agta": "asul"
+    },
+    {
+        "audio_file": "color_2.m4a",
+        "filipino": "Pula",
+        "casiguran_agta": "medingat"
+    },
+    {
+        "audio_file": "color_3.m4a",
+        "filipino": "Puti",
+        "casiguran_agta": "melatak"
+    },
+    {
+        "audio_file": "color_4.m4a",
+        "filipino": "Itim",
+        "casiguran_agta": "mengitet"
+    },
+    {
+        "audio_file": "color_5.m4a",
+        "filipino": "Berde",
+        "casiguran_agta": "kumanidon"
+    },
+    {
+        "audio_file": "color_6.m4a",
+        "filipino": "Dilaw",
+        "casiguran_agta": "medilaw"
+    },
+    {
+        "audio_file": "color_7.m4a",
+        "filipino": "Kulay tsokolate",
+        "casiguran_agta": "tsokolate"
+    },
+    {
+        "audio_file": "color_8.m4a",
+        "filipino": "Kulay abo",
+        "casiguran_agta": "kulay abo"
+    },
+    {
+        "audio_file": "color_9.m4a",
+        "filipino": "Rosas",
+        "casiguran_agta": "rosas"
+    },
+    {
+        "audio_file": "color_10.m4a",
+        "filipino": "Dalandan",
+        "casiguran_agta": "Kuman a don"
+    },
+    {
+        "audio_file": "color_11.m4a",
+        "filipino": "Lila",
+        "casiguran_agta": "Kuman a pensél"
+    },
+    {
+        "audio_file": "family_1.m4a",
+        "filipino": "Lolo",
+        "casiguran_agta": "boboy lakay"
+    },
+    {
+        "audio_file": "family_2.m4a",
+        "filipino": "Lola",
+        "casiguran_agta": "boboy bakés"
+    },
+    {
+        "audio_file": "family_3.m4a",
+        "filipino": "Tatay",
+        "casiguran_agta": "améng"
+    },
+    {
+        "audio_file": "family_4.m4a",
+        "filipino": "Nanay",
+        "casiguran_agta": "inéng"
+    },
+    {
+        "audio_file": "family_5.m4a",
+        "filipino": "Kuya",
+        "casiguran_agta": "kakéng"
+    },
+    {
+        "audio_file": "family_6.m4a",
+        "filipino": "Ate",
+        "casiguran_agta": "kakéng"
+    },
+    {
+        "audio_file": "family_7.m4a",
+        "filipino": "Bunso",
+        "casiguran_agta": "depos"
+    },
+    {
+        "audio_file": "family_8.m4a",
+        "filipino": "Asawang lalaki",
+        "casiguran_agta": "asawa a lalaki"
+    },
+    {
+        "audio_file": "family_9.m4a",
+        "filipino": "Asawang babae",
+        "casiguran_agta": "asawa a babe"
+    },
+    {
+        "audio_file": "family_10.m4a",
+        "filipino": "Anak na lalaki",
+        "casiguran_agta": "anak a lalake"
+    },
+    {
+        "audio_file": "family_11.m4a",
+        "filipino": "Anak na babae",
+        "casiguran_agta": "anak a babe"
+    },
+    {
+        "audio_file": "buying_1.m4a",
+        "filipino": "Magkano ang dalawa?",
+        "casiguran_agta": "sangan éduwa"
+    },
+    {
+        "audio_file": "buying_2.m4a",
+        "filipino": "Kukuha ako ng dalawa.",
+        "casiguran_agta": "mangalap pékta éduwa"
+    },
+    {
+        "audio_file": "buying_3.m4a",
+        "filipino": "Sige kunin mo na.",
+        "casiguran_agta": "nay alapén mo dén"
+    },
+    {
+        "audio_file": "buying_4.m4a",
+        "filipino": "Limampung piso ito.",
+        "casiguran_agta": "lima apulo ye"
+    },
+    {
+        "audio_file": "buying_5.m4a",
+        "filipino": "Isang daang piso ang dalawa.",
+        "casiguran_agta": "esa a daan éduwa"
+    },
+    {
+        "audio_file": "directions_1.m4a",
+        "filipino": "Saan ka pupunta?",
+        "casiguran_agta": "ahe ka umange"
+    },
+    {
+        "audio_file": "directions_2.m4a",
+        "filipino": "Pupunta ako sa halamanan.",
+        "casiguran_agta": "ange ékta sikaw"
+    },
+    {
+        "audio_file": "directions_3.m4a",
+        "filipino": "Nasaan ang halamanan?",
+        "casiguran_agta": "ahe to sikaw"
+    },
+    {
+        "audio_file": "directions_4.m4a",
+        "filipino": "Malapit sa ilog ang halamanan.",
+        "casiguran_agta": "tama a ilog"
+    }
+]
