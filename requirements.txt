@@ -1,0 +1,21 @@
+openai.api_key = "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"
+
+.\.venv\Scripts\Activate
+pip install openai
+pip install speechrecognition
+pip install gtts
+pip install playsound #==1.2.2
+pip install openai
+pip install pyaudio
+pip install unidecode
+
+
+
+pip install openai-whisper
+pip install torch
+pip install SpeechRecognition
+pip install pyaudio
+
+#tts
+pip install pydub
+apt install ffmpeg
